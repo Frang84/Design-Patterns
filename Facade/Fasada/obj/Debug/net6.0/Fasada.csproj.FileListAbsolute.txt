@@ -1,0 +1,14 @@
+C:\studia\rokIII\Vsemestr\wzorceProjektowe\Fasada\Fasada\bin\Debug\net6.0\Fasada.exe
+C:\studia\rokIII\Vsemestr\wzorceProjektowe\Fasada\Fasada\bin\Debug\net6.0\Fasada.deps.json
+C:\studia\rokIII\Vsemestr\wzorceProjektowe\Fasada\Fasada\bin\Debug\net6.0\Fasada.runtimeconfig.json
+C:\studia\rokIII\Vsemestr\wzorceProjektowe\Fasada\Fasada\bin\Debug\net6.0\Fasada.dll
+C:\studia\rokIII\Vsemestr\wzorceProjektowe\Fasada\Fasada\bin\Debug\net6.0\Fasada.pdb
+C:\studia\rokIII\Vsemestr\wzorceProjektowe\Fasada\Fasada\obj\Debug\net6.0\Fasada.GeneratedMSBuildEditorConfig.editorconfig
+C:\studia\rokIII\Vsemestr\wzorceProjektowe\Fasada\Fasada\obj\Debug\net6.0\Fasada.AssemblyInfoInputs.cache
+C:\studia\rokIII\Vsemestr\wzorceProjektowe\Fasada\Fasada\obj\Debug\net6.0\Fasada.AssemblyInfo.cs
+C:\studia\rokIII\Vsemestr\wzorceProjektowe\Fasada\Fasada\obj\Debug\net6.0\Fasada.csproj.CoreCompileInputs.cache
+C:\studia\rokIII\Vsemestr\wzorceProjektowe\Fasada\Fasada\obj\Debug\net6.0\Fasada.dll
+C:\studia\rokIII\Vsemestr\wzorceProjektowe\Fasada\Fasada\obj\Debug\net6.0\refint\Fasada.dll
+C:\studia\rokIII\Vsemestr\wzorceProjektowe\Fasada\Fasada\obj\Debug\net6.0\Fasada.pdb
+C:\studia\rokIII\Vsemestr\wzorceProjektowe\Fasada\Fasada\obj\Debug\net6.0\Fasada.genruntimeconfig.cache
+C:\studia\rokIII\Vsemestr\wzorceProjektowe\Fasada\Fasada\obj\Debug\net6.0\ref\Fasada.dll
